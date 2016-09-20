@@ -1,0 +1,35 @@
+body{
+  background-color:#171717;
+  color:e7e7e7;
+}
+a{
+  text-decoration:none;
+  color:#fff;
+  font-weight:bold;
+}
+.button{
+  margin:40px;
+  padding:20px;
+  color:fff;
+  width:400px;
+}
+HR{
+  width:100px;
+}
+#presentation{
+  background-color:#E80;
+}
+#presentation:hover{
+  background-color:#CC6A19;
+}
+#feedback{
+  background-color:#13C300;
+}
+#feedback:hover{
+  background-color:#22A714;
+}
+#footer{
+  bottom:50px;
+  color:#fff;
+  font-size:13px;
+}
